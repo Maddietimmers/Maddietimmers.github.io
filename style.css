@@ -43,3 +43,12 @@
         display: block;
       }
     }
+.materiaal-bg {
+background: url(https://web.stanford.edu/dept/CTL/cgi-bin/academicskillscoaching/wp-content/uploads/2012/07/baby-duck.jpg) no-repeat center center fixed;
+}
+.about-bg {
+background: url(images/about.bg.jpg) no-repeat center center fixed;
+}
+.contact-bg {
+background: url(images/contact-bg.jpg) no-repeat center center fixed;
+}
