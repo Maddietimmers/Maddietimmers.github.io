@@ -50,3 +50,10 @@ background: url(images/about.bg.jpg) no-repeat center center fixed;
 .contact-bg {
 background: url(images/contact-bg.jpg) no-repeat center center fixed;
 }
+
+html {
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
